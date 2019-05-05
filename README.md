@@ -1,7 +1,6 @@
-# LyndaVisualDecryptor
-First Visual Interface for the Command Line (Lynda-Decryptor) by Tobias Becht
 
 Lynda Visual Decryptor - Version 1.0 r11
+First Visual Interface for the Command Line (Lynda-Decryptor) by Tobias Becht
 ============================
 Designed and Developed By :
 Mohammad Ibrahim
