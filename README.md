@@ -11,7 +11,7 @@ IMPORTANT! :
 You MUST Install (Lynda Desktop APP) from Lynda.com (Only Version that Support Windows 7+) are Supported in the Lynda Visual Decryptor and that can be downloaded from :
 https://www.lynda.com/apps/desktop-app
 
-The Program Can Run Directly (no need to Setup anything) just extract the (Lyndavisualdecryptor.zip) and then Run the Program (lvdok.exe) and it will make a shortcut in the Desktop with the name of (Lynda Visual Decrytor).
+The Program Can Run Directly (no need to Setup anything) just extract the (Lyndavisualdecryptor.zip) and then Run the Program (lvdok.exe) and it will make a shortcut in the Desktop with the name of (Lynda Visual Decryptor).
 
 
 Thanks and Credits to :
