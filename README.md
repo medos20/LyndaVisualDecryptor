@@ -13,6 +13,8 @@ https://www.lynda.com/apps/desktop-app
 
 The Program Can Run Directly (no need to Setup anything) just extract the (Lyndavisualdecryptor.zip) and then Run the Program (lvdok.exe) and it will make a shortcut in the Desktop with the name of (Lynda Visual Decryptor).
 
+Download Version 1.0 from here : https://github.com/medos20/LyndaVisualDecryptor/releases/download/v1.0/lyndavisualDecryptor.zip
+
 
 Thanks and Credits to :
 Tobias Becht : The Original Developer of (Lynda Decryptor) Command Line Version
