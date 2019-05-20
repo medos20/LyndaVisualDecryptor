@@ -15,7 +15,7 @@ What’s New in Version 2.0 :
 
 3-Now you Can Decrypt One File Only to Test your Files Before Make Big Decryption of the Folder.
 
-The Program Can Run Directly (no need to Setup anything) just extract the (Lyndavisualdecryptor.zip) and then Run the Program (lvdok.exe) and it will make a shortcut in the Desktop with the name of (Lynda Visual Decryptor).
+The Program Can Run Directly (no need to Setup anything) just extract the (lyndavisualDecryptor_v2.0.zip) and then Run the Program (lvdok.exe) and it will make a shortcut in the Desktop with the name of (Lynda Visual Decryptor).
 
 Download Version 2.0 from here : https://github.com/medos20/LyndaVisualDecryptor/releases/download/v2.0/lyndavisualDecryptor_v2.0.zip
 
