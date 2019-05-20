@@ -9,9 +9,11 @@ This free Software offer Visual Interface for the Command Line (Lynda Decryptor)
 
 What’s New in Version 2 :
 ============================
-1-Now the Software Support Real Search for the Database File Instead of Assumed Search Path So that make the Software compatible with Most of Lynda Desktop App Versions
-2-Now The Manual Search Support the Hidden File and Folders Automatically
-3-Now you Can Decrypt One File Only to Test your Files Before Make Big Decryption of the Folder
+1-Now the Software Support Real Search for the Database File Instead of Assumed Search Path So that make the Software compatible with Most of Lynda Desktop App Versions.
+
+2-Now The Manual Search Support the Hidden File and Folders Automatically.
+
+3-Now you Can Decrypt One File Only to Test your Files Before Make Big Decryption of the Folder.
 
 The Program Can Run Directly (no need to Setup anything) just extract the (Lyndavisualdecryptor.zip) and then Run the Program (lvdok.exe) and it will make a shortcut in the Desktop with the name of (Lynda Visual Decryptor).
 
