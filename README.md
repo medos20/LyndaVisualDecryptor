@@ -23,18 +23,23 @@ Download Version 2.0 from here : https://github.com/medos20/LyndaVisualDecryptor
 Thanks and Credits to :
 Tobias Becht : The Original Developer of (Lynda Decryptor) Command Line Version
 https://github.com/h4ck-rOOt
+
 Dmytro Sokhach : The Developer who Modified Tobias Prog to Support Video2Brain (LDCW) Side by Side with the (LYNDA) format.
 https://github.com/DmytroSokhach
+
 Matei Domnita : The Developer that Add the ability to convert .captions to .srt
 https://github.com/mdomnita
+
 Valentin Schmidt : C++ and Multimedia Developer Very interested in Developing Scripting Xtras for Adobe / Macromedia Director – he is the One who Created Shell Xtra Responsible to Run Command Line Software Inside Director Environment
 http://www.dasdeck.com/
+
 Gary Smith : The Owner and Developer of Buddy API Xtra – API Xtra for  Director to Control Windows
 http://www.mods.com.au/
 
 
 All Right Reserved to Mohammad Ibrahim – The Developer of Lynda Visual Decryptor
 https://github.com/medos20
+
 Thanks to Allah (GOD) for all the Help
 
 ----------------------------
