@@ -7,7 +7,7 @@ medos20.mi@gmail.com
 ============================
 This free Software offer Visual Interface for the Command Line (Lynda Decryptor) So you Can Decrypt Lynda Desktop Downloaded Offline Courses Instead of Using Command Line, the software is based on Tobias Becht (Lynda Decryotor) but replacing the boring and Hard to use Black CMD Interface with Visual and Easy to Use GUI for the final User, not all the functions in the Original Version are Converted to the GUI but the main function and the ability to covert complete video course are of-course supported in the GUI, this program assumed that you have legal Lynda/Linked-in Account into your computer , this software are not to pirate lynda videos its just for your personal use to save you a lot of time in case you need to watch the video courses anytime even after formatting your system, now you can keep your decrypted video files safe in other place (DON’T DISTRIBUTE THE VIDEO COURSES!) .
 
-What’s New in Version 2 :
+What’s New in Version 2.0 :
 ============================
 1-Now the Software Support Real Search for the Database File Instead of Assumed Search Path So that make the Software compatible with Most of Lynda Desktop App Versions.
 
